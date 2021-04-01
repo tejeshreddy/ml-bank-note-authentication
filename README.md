@@ -21,12 +21,12 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 ### Tabular View of the Data
 
-| variance | skewness | curtosis | entropy | class |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 3.6216 | 8.6661 | -2.8073 | -0.44699 | 0 |
-| 4.5459 | 8.1674 | -2.4586 | -1.4621 | 0 | 
-| 3.866 | -2.6383 | 1.9242 | 0.10645 | 0 |
-| .. | .. | .. | .. | .. |
+variance | skewness | curtosis | entropy | class
+-- | :-: | -- | -- | -- | --
+3.6216 | 8.6661 | -2.8073 | -0.44699 | 0
+4.5459 | 8.1674 | -2.4586 | -1.4621 | 0 
+3.866 | -2.6383 | 1.9242 | 0.10645 | 0
+.. | .. | .. | .. | .. |
 
 
 ## Folder Structure
